@@ -71,10 +71,6 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         menu.addItem(quitMenuItem)
     }
     
-    private func updateUI() {
-        
-    }
-    
     private func destroyStatusItem() {
          statusItem = nil
     }
