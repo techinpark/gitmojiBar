@@ -104,6 +104,7 @@
 			buildPhases = (
 				ED515E1327B4FE5800EEF28A /* Sources */,
 				ED515E1427B4FE5800EEF28A /* Frameworks */,
+				ED515E3827B55CD600EEF28A /* LaunchAtLogin */,
 				ED515E1527B4FE5800EEF28A /* Resources */,
 			);
 			buildRules = (
@@ -167,6 +168,27 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		ED515E3827B55CD600EEF28A /* LaunchAtLogin */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			name = LaunchAtLogin;
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Type a script or drag a script file from your workspace to insert its path.\n\"${BUILT_PRODUCTS_DIR}/LaunchAtLogin_LaunchAtLogin.bundle/Contents/Resources/copy-helper-swiftpm.sh\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		ED515E1327B4FE5800EEF28A /* Sources */ = {
