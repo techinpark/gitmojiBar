@@ -15,6 +15,10 @@
 https://user-images.githubusercontent.com/45546296/153700759-569eb2d4-df04-4e60-8f44-4da9b587ba87.mov
 
 
+### AppStore
+
+<a href="https://apps.apple.com/kr/app/gitmojibar-gitmoji-menubar/id1609716594?mt=12&amp;itsct=apps_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-US?size=250x83&amp;releaseDate=1612137600&h=21fffbfb6797aea42878a89d3fd093fd" alt="Download on the Mac App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+
 
 ## Requirements 
 
