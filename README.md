@@ -1,4 +1,4 @@
-# gitmoji-bar
+# gitmojiBar
 
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/techinpark/gitmoji-bar/blob/main/LICENSE)
