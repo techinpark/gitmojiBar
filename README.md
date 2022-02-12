@@ -12,7 +12,8 @@
 🧰  MacOS status bar for easy copy gitmoji emoticons, Written in Swift 5.0
 
 ## Preview 👀
-![](./.github/images/preview.png)
+<video src="./.github/images/gitmojibar.mov" width="100%" autoplay="autoplay">
+
 
 
 ## Requirements 
